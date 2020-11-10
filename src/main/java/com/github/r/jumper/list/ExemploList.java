@@ -1,4 +1,4 @@
-package one.digitalinnovation.list;
+package com.github.r.jumper.list;
 
 import java.util.ArrayList;
 import java.util.Collections;

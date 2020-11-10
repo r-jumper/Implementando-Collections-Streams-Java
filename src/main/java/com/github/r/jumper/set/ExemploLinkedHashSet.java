@@ -1,4 +1,4 @@
-package one.digitalinnovation.set;
+package com.github.r.jumper.set;
 
 import java.util.Iterator;
 import java.util.LinkedHashSet;

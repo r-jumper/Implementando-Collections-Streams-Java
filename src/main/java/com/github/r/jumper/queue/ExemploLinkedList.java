@@ -1,4 +1,4 @@
-package one.digitalinnovation.queue;
+package com.github.r.jumper.queue;
 
 import java.util.Iterator;
 import java.util.LinkedList;

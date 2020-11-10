@@ -1,4 +1,4 @@
-package one.digitalinnovation.map;
+package com.github.r.jumper.map;
 
 import java.util.Hashtable;
 import java.util.Map;

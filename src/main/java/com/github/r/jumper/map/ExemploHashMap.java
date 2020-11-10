@@ -1,4 +1,4 @@
-package one.digitalinnovation.map;
+package com.github.r.jumper.map;
 
 import java.util.HashMap;
 import java.util.Map;
@@ -18,6 +18,7 @@ public class ExemploHashMap {
         campeoesMundiaisFifa.put("França", 2);
         campeoesMundiaisFifa.put("Inglaterra", 1);
         campeoesMundiaisFifa.put("Espanha", 1);
+
             System.out.println(campeoesMundiaisFifa);
 
         System.out.println("Atualiza o valor para a chave Brasil:");
